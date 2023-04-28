@@ -4,4 +4,4 @@ detailing various recipes. This will demonstrate my burgeoning
 talent in HTML. Years from now, when I am a highly paid and well
 respected member of the coding community, I will revisit this
 project and remember the disjointed intellectual journey that
-brought me here. Stay gold, hiring manager.
+brought me here.
