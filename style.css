@@ -1,22 +1,10 @@
 * {
   background-color: antiquewhite;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  text-align: center;
+  width: 600px;
+  margin: 10px auto;
+  text-align: left;
   color: rgb(0, 0, 88);
-}
-
-#chef {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  height: auto;
-  width: 500px;
-  border-radius: 75%;
-}
-
-ul {
-  list-style-type: none;
-  padding: 0%;
 }
 
 a {
@@ -25,10 +13,33 @@ a {
   text-decoration: underline;
 }
 
+ul,
+ol {
+  padding-left: 0px;
+}
+
+li {
+  margin-left: 20px;
+  width: 560px;
+}
+
+/* ul {
+  list-style-type: none;
+  padding: 0%;
+} */
+
 a:hover {
   text-decoration: none;
 }
 
-.center {
-  list-style-position: inside;
+.home {
+  text-align: center
+}
+
+#chef {
+  display: block;
+  margin: auto;
+  height: auto;
+  width: 500px;
+  border-radius: 75%;
 }
